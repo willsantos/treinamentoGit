@@ -1,19 +1,19 @@
 [Link to English](#english)
 
 
-#Portuguese/Brazil
+# Portuguese/Brazil
 
-##Treinamento Git
+## Treinamento Git
 
 
-###Processos
-1.João criou a primeira página do sistema Index.html
+### Processos
+1. João criou a primeira página do sistema Index.html
 
-#English
+# English
 
-##Training Git
+## Training Git
 
-###Process
+### Process
 
 
 
